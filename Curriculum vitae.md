@@ -2,7 +2,7 @@
 
 ### Datos personales: ###
 
-<img src="unnamed.jpg" style="zoom:-10%;" />
+<img src="unnamed.jpg" style="zoom:10%;" />
 
 **Nombre:** Antonio.
 
