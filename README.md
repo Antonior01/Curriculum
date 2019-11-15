@@ -8,11 +8,7 @@
 
 **Apellidos:** Reynaldo Fernández. 
 
-**Domicilio:** C/ Picadueña Baja, Nº 29, Jerez de la Frontera, España.
-
-**CP:** 11408.
-
-**Teléfono de contacto:** 647 13 28 26
+**Domicilio:** Jerez de la Frontera, España.
 
 **Email:** antonior1101@gmail.com
 
